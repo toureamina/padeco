@@ -1,0 +1,40 @@
+body{ background-color: #8B0000 ;#A52A2A
+
+
+}
+.container{
+	max-width: 300px;
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+	border: solid 1px white; width: 400%; height: 250px;
+	border-radius: 8px;
+}
+h1{text-align: center;}
+input{
+	width: 120px;
+	margin: 10px 0;
+	padding: 5px;
+	display: flex;
+}
+label: pointer{
+color: greenyellow;
+}
+.a{
+	width: 210px;
+}
+.submit
+{ 
+	cursor: pointer;
+	display: inline;
+	position: relative;
+right: 7%;
+}
+label{
+	display: flex;}
+	form{margin-left: 15px;
+	margin-top: 20px;
+}
+.s:hover{ 
+color: greenyellow; 
+ }
